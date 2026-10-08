@@ -25,25 +25,11 @@ Sometimes the fastest way to understand a product problem is to build something,
 
 ## Things I've built
 
-### X Recall
+### X Recall: AI-powered bookmark organization for X. Automatically classifies saved posts into smart folders using a three-signal inference approach. → [Explore X Recall](https://github.com/prodXsg/X_Recall)
 
-AI-powered bookmark organization for X.
+### PIVOT: Adaptive fitness planning built around the reality that people's time, energy and readiness change. → [Explore PIVOT](https://github.com/prodXsg/PIVOT_adaptive-fitness)
 
-Automatically classifies saved posts into smart folders using a three-signal inference approach.
-
-→ [Explore X Recall](https://github.com/prodXsg/X_Recall)
-
-### PIVOT
-
-Adaptive fitness planning built around the reality that people's time, energy and readiness change.
-
-→ [Explore PIVOT](https://github.com/prodXsg/PIVOT_adaptive-fitness)
-
-### RAG
-
-Experiments around retrieval-augmented generation and LLM applications.
-
-→ [Explore RAG](https://github.com/prodXsg/RAG-Pipeline-Interactive-Visualization)
+### RAG Pipeline: Experiments around retrieval-augmented generation and LLM applications. → [Explore RAG](https://github.com/prodXsg/RAG-Pipeline-Interactive-Visualization)
 
 ## How I like to work
 
@@ -53,10 +39,4 @@ Then I ask: **Is this actually worth solving?**
 
 If it is, I try to get as close to the solution as possible.
 
-Research → Define → Prototype → Test → Learn → Iterate.
-
 The goal isn't to build more. It's to understand better.
-
-## What I'm exploring
-
-LLMs · RAG · AI Agents · AI Evaluation · Product Analytics · AI-native Products
