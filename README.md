@@ -1,8 +1,6 @@
 # Hi, I'm Surya 👋
 
-I'm a Product Manager (Growth & Strategy) who likes to build beyond the PRD.
-
-I work at the intersection of product, technology, and growth, and I'm increasingly exploring what happens when PMs get closer to the actual building.
+I'm a Product Manager (Growth & Strategy) who likes to build beyond the PRD. I work at the intersection of product, technology, and growth.
 
 ## Currently building:
 
