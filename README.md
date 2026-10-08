@@ -25,11 +25,9 @@ Sometimes the fastest way to understand a product problem is to build something,
 
 ## Things I've built
 
-### X Recall: AI-powered bookmark organization for X. Automatically classifies saved posts into smart folders using a three-signal inference approach. →[Explore X Recall](https://github.com/prodXsg/X_Recall)
-
-### PIVOT: Adaptive fitness planning built around the reality that people's time, energy and readiness change. →[Explore PIVOT](https://github.com/prodXsg/PIVOT_adaptive-fitness)
-
-### RAG Pipeline: Experiments around retrieval-augmented generation and LLM applications. →[Explore RAG](https://github.com/prodXsg/RAG-Pipeline-Interactive-Visualization)
+### [X Recall](https://github.com/prodXsg/PIVOT_adaptive-fitness): AI-powered bookmark organization for X. Automatically classifies saved posts into smart folders using a three-signal inference approach. 
+### [PIVOT](https://github.com/prodXsg/PIVOT_adaptive-fitness): Adaptive fitness planning built around the reality that people's time, energy and readiness change. 
+### [RAG Pipeline](https://github.com/prodXsg/RAG-Pipeline-Interactive-Visualization): Experiments around retrieval-augmented generation and LLM applications. 
 
 ## How I like to work
 
